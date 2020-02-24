@@ -1,5 +1,8 @@
 _repo: Sonnica-la-cortesana-Novela_61438
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 61438-h/images/cover.jpg
 creator:
   author:
     agent_name: Blasco Ibáñez, Vicente
@@ -14,6 +17,8 @@ creator:
     - http://en.wikipedia.org/wiki/Vicente_Blasco_Ibáñez
     - https://es.wikipedia.org/wiki/Vicente_Blasco_Ib%C3%A1%C3%B1ez
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61438#Sonnica-la-cortesana-Novela
 gutenberg_issued: '2020-02-18'
 gutenberg_type: Text
 identifiers:

@@ -1,0 +1,30 @@
+_repo: Sonnica-la-cortesana-Novela_61438
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Blasco Ibáñez, Vicente
+    aliases:
+    - Ibáñez, Vicente Blasco
+    - Blasco Ibanez, Vicente
+    birthdate: 1867
+    deathdate: 1928
+    gutenberg_agent_id: '647'
+    url: http://www.gutenberg.org/2009/agents/647
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Vicente_Blasco_Ibáñez
+    - https://es.wikipedia.org/wiki/Vicente_Blasco_Ib%C3%A1%C3%B1ez
+description: ''
+gutenberg_issued: '2020-02-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61438'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Sagunto (Spain) -- History -- Siege, 219-218 B.C. -- Fiction'
+- GITenberg
+title: 'Sónnica la cortesana: Novela'
+url: http://www.gutenberg.org/ebooks/61438
